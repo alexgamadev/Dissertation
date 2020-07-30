@@ -8,6 +8,6 @@ To run the demo simply download the project and run the dissertation.exe file wi
 
 Perlin Noise Generation with 1 octave (Left) and 8 octaves (Right)
 
-![alt text](https://imgur.com/c7GsPBh)
+![Hydraulic erosion before and after](https://i.imgur.com/c7GsPBh.png)
 
 Before Hydraulic Erosion (Left) and after (Right)
