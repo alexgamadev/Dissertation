@@ -4,7 +4,7 @@ Dissertation project completed for the University of Derby. Contains both the en
 
 To run the demo simply download the project and run the dissertation.exe file within the Demo folder.
 
-![alt text](https://imgur.com/KwQjAsi)
+![Perlin noise octaves comparison](https://i.imgur.com/KwQjAsi.png)
 
 Perlin Noise Generation with 1 octave (Left) and 8 octaves (Right)
 
